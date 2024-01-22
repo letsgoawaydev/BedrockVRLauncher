@@ -1,6 +1,7 @@
 # BedrockVRLauncher
-### A simple application that allows you to play Minecraft: Bedrock Edition in VR easily.
+### A simple application that allows you to play Minecraft: Bedrock Edition in VR mode easily.
 > This project is not affiliated or endorsed by Mojang, Microsoft, or Xbox Game Studios.
+> 
 > Please be careful using this on servers, possibly even including the Featured Servers (Hive, Cubecraft, etc.) as most anti-cheats are designed for screen users, and VR mode may get you banned in certain cases.
 
 ## Requirements
@@ -26,7 +27,9 @@
 9. Switch on `Include in VR Library` and close the `Properties` popup window.
 10. Now you can launch it in SteamVR and play Minecraft: Bedrock Edition in VR! 
 
-> Please note: As this is not a mod of the game and only a launcher, I cannot add features like multiplayer hand movements or offhand arm movements. Mojang will have to do this themselves which is very unlikely as VR is definitely not one of their primary platforms other than the PlayStation VR.
+> Please note: As this is not a mod of the game and only a launcher, I cannot add features like multiplayer hand movements or offhand arm movements.
+>
+> Mojang will have to do this themselves which is very unlikely as VR is definitely not one of their primary platforms other than the PlayStation VR.
 
 ## How?
 Minecraft: Bedrock Edition has a hidden [VR Mode](https://www.minecraft.net/en-us/vr), which was made for the [PlayStation VR](https://www.minecraft.net/en-us/article/minecraft-gets-playstation-vr) and [Gear VR](https://www.youtube.com/watch?v=_rYfkDmSRKs). However, this can be enabled on Windows by typing this command in a web browser while having an OpenXR server (SteamVR or Oculus Rift) open:
