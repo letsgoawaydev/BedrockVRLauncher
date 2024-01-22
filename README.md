@@ -1,5 +1,5 @@
 # BedrockVRLauncher
-### A simple application that allows you to play Minecraft: Bedrock Edition in VR easily.
+### A simple application that allows you to play Minecraft: Bedrock Edition in VR mode easily.
 > This project is not affiliated or endorsed by Mojang, Microsoft, or Xbox Game Studios.
 > Please be careful using this on servers, possibly even including the Featured Servers (Hive, Cubecraft, etc.) as most anti-cheats are designed for screen users, and VR mode may get you banned in certain cases.
 
