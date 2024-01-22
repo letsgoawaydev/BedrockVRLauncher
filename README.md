@@ -5,8 +5,8 @@
 > Please be careful using this on servers, possibly even including the Featured Servers (Hive, Cubecraft, etc.) as most anti-cheats are designed for screen users, and VR mode may get you banned in certain cases.
 
 ## Requirements
- [x] A VR Ready Windows computer with [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) and [Minecraft: Bedrock Edition](https://www.xbox.com/en-US/games/store/minecraft-for-windows/9NBLGGH2JHXJ) installed
- [x] A VR Headset with 2 Controllers (I use Meta Quest 2 connecting to SteamVR via [Steam Link](https://www.meta.com/en-gb/experiences/5841245619310585/))
+- [x] A VR Ready Windows computer with [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) and [Minecraft: Bedrock Edition](https://www.xbox.com/en-US/games/store/minecraft-for-windows/9NBLGGH2JHXJ) installed
+- [x] A VR Headset with 2 Controllers (I use Meta Quest 2 connecting to SteamVR via [Steam Link](https://www.meta.com/en-gb/experiences/5841245619310585/))
  
 ## Steam Installation Instructions
 1. Move only the `BedrockVRLauncher.exe` to a folder somewhere where it wont be deleted, or unavailable for any reason.
