@@ -35,3 +35,5 @@
 Minecraft: Bedrock Edition has a hidden [VR Mode](https://www.minecraft.net/en-us/vr), which was made for the [PlayStation VR](https://www.minecraft.net/en-us/article/minecraft-gets-playstation-vr) and [Gear VR](https://www.youtube.com/watch?v=_rYfkDmSRKs). However, this can be enabled on Windows by typing this command in a web browser while having an OpenXR server (SteamVR or Oculus Rift) open:
 `minecraft://Mode/?OpenXR=true`
 By making an application instead of a command to launch Bedrock Edition in this mode, you can add it to Steam or any other VR service.
+## Technical Details
+Built using Node.js v21.6.0.
