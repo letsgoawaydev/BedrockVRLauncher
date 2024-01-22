@@ -1,0 +1,2 @@
+rcedit by Electron | build-tools/rcedit.exe
+https://github.com/electron/rcedit/releases/tag/v2.0.0
